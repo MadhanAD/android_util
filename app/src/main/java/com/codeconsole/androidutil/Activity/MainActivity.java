@@ -1,4 +1,4 @@
-package com.codeconsole.androidutil;
+package com.codeconsole.androidutil.Activity;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -9,6 +9,8 @@ import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import com.codeconsole.androidutil.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
